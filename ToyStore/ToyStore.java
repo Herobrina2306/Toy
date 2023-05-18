@@ -12,7 +12,7 @@ public class ToyStore {
     }
     
     public Toy getToyForPrice() {
-        RandomToyChooser random = new RandomToyChooser();
+        RandomToy random = new RandomToy();
         Toy toy = random.chooseOnWeight(toys);
         return toy;
     }

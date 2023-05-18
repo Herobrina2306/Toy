@@ -1,0 +1,13 @@
+
+Toy [id=1, name=Machine, weight=40.0]
+Toy [id=0, name=Doll, weight=25.0]
+Toy [id=3, name=Bear, weight=65.0]
+Toy [id=2, name=Robot, weight=3.0]
+Toy [id=2, name=Robot, weight=3.0]
+Toy [id=3, name=Bear, weight=65.0]
+Toy [id=1, name=Machine, weight=40.0]
+Toy [id=0, name=Doll, weight=25.0]
+Toy [id=3, name=Bear, weight=65.0]
+Toy [id=1, name=Machine, weight=40.0]
+Toy [id=0, name=Doll, weight=25.0]
+Toy [id=2, name=Robot, weight=3.0]
